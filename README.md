@@ -23,3 +23,4 @@
 ## How to use:
 * Obtain a 2Captcha token from [2captcha](https://www.2captcha.com) and input it in config.json.
 * Input at least 1 item in profiles.js (can be any number of items).
+* Running it: `node index.js`
