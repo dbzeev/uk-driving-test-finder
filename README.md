@@ -1,5 +1,8 @@
 # Practical Driving Test Finder
 
+## Important update
+DVSA changed the captcha mechanism to one which isn't supported by the current captcha recognition library. It breaks the application's run when a captcha is needed  
+
 ## The problem
 * Manually finding a practical driving test date less than 6 months ahead is almost impossible.
 * The reason for this is the large amount of bots running on DVSA's driving schools' website, by which it is easy to book bulks of driving test slots, leaving no free slots for legitimate users. 
